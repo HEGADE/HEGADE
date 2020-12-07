@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### My name is subrahmanya s Hegade . programming guy
+### My self subrahmanya s Hegade . programming guy
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HEGADE)
