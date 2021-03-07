@@ -13,6 +13,9 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HEGADE&repo=Myapp&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEGADE&show_icons=true&theme=merko)
+
+
 
 
 
