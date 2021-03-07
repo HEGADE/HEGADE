@@ -7,11 +7,11 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HEGADE)
+![Github stats](https://github-readme-stats.vercel.app/api?username=HEGADE&show_icons=true&theme=merko)
 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HEGADE&repo=Myapp)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HEGADE&repo=Myapp&show_icons=true&theme=merko)
 
 
 
