@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-### My self subrahmanya s Hegade . 
+### I am Subrahmanya S Hegade . 
 <hr>
 
 
