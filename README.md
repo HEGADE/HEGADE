@@ -1,10 +1,10 @@
 ![hegade](https://komarev.com/ghpvc/?username=hegade&style=flat-square)
-### Hi there 👋
 
+# 💫 About Me:
 
 ### I am Subrahmanya S Hegade . 
+🔭I'm currently working on: Full-stack solutions with React/NextJs/Python/NodeJs/FastAPI, Blockchain development, AI integration,  security-focused development, and containerization and load balancing  (Docker, Nginx, AWS).
 <hr>
-
 
 
 
