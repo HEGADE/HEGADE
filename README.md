@@ -7,7 +7,7 @@
 <hr>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrahmanya-s-hegade-023b92200/) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/beignhegade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrahmanya-s-hegade-023b92200/) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/beignhegade)](https://twitter.com/Beinghegade)
  
 
 
